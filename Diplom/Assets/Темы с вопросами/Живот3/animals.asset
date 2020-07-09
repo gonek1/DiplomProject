@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8845d29499710c146bcc196d2d30601f, type: 3}
+  m_Name: animals
+  m_EditorClassIdentifier: 
+  Name: "\u0416\u0438\u0432\u043E\u0442\u043D\u044B\u0435"
+  Questions:
+  - {fileID: 11400000, guid: 6af92676c7d906f4c9a95a61aa7bf620, type: 2}
+  - {fileID: 11400000, guid: d87652e5f4d2f784cb9deb6d0f4e5d8f, type: 2}
+  - {fileID: 11400000, guid: f932d0a1144aa5b47bb17c4afd06832c, type: 2}
+  - {fileID: 11400000, guid: 6303965d998636a4493df0f288489e95, type: 2}
+  - {fileID: 11400000, guid: 186fdd6127d29fb4f8e9cb3c4571ea0f, type: 2}
+  - {fileID: 11400000, guid: 0c2576732c6dbb24d8dac9606986fc43, type: 2}
+  - {fileID: 11400000, guid: 490f93c341ca50b4782c6059d8d5b97d, type: 2}
+  - {fileID: 11400000, guid: cd5f588a1249eea429f248ad6b8e545c, type: 2}
+  - {fileID: 11400000, guid: 657d8cde60df7594692e8e3696e6f4a4, type: 2}
+  - {fileID: 11400000, guid: 72a96c9bc825b0d4fa251bbb1437c4f3, type: 2}

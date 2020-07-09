@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8845d29499710c146bcc196d2d30601f, type: 3}
+  m_Name: Nauka
+  m_EditorClassIdentifier: 
+  Name: "\u041D\u0430\u0443\u043A\u0430"
+  Questions:
+  - {fileID: 11400000, guid: 976c544508e15f940bd8ac2daab70af3, type: 2}
+  - {fileID: 11400000, guid: 8ea16896c4de1ad49bc8a17b7e70c4fb, type: 2}
+  - {fileID: 11400000, guid: f2656ee7fb22d3a48bdb8e6f47a867c3, type: 2}
+  - {fileID: 11400000, guid: 891a41b907a8cf24eb340a792dda1681, type: 2}
+  - {fileID: 11400000, guid: 34a314dbb00a7f443a98c2943af66ce9, type: 2}
+  - {fileID: 11400000, guid: 90bd06cc6d443d74c891822b2aec14e0, type: 2}
+  - {fileID: 11400000, guid: 4ac0e4a1dfaccb547ba803464b3b76a5, type: 2}
+  - {fileID: 11400000, guid: cbd20eb4c8b4bbb49b7184a48a4b16bb, type: 2}
+  - {fileID: 11400000, guid: 3047fd3458ce26d48a6387c551383b04, type: 2}
+  - {fileID: 11400000, guid: 80b6afff33911d64f8310cd58cf97630, type: 2}

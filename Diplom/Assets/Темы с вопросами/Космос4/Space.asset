@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8845d29499710c146bcc196d2d30601f, type: 3}
+  m_Name: Space
+  m_EditorClassIdentifier: 
+  Name: "\u041A\u043E\u0441\u043C\u043E\u0441"
+  Questions:
+  - {fileID: 11400000, guid: 23ac1b5f528d52b41a576d4c5160c544, type: 2}
+  - {fileID: 11400000, guid: 654ac2f3cbf86284ba9378b10f3c40a7, type: 2}
+  - {fileID: 11400000, guid: 7f4c3174c52184a4bb39ec6b9e30837d, type: 2}
+  - {fileID: 11400000, guid: 87eb7d4a8be08304e810f2395ec6ff4e, type: 2}
+  - {fileID: 11400000, guid: 73000cbcf6056c248941fe60e34dcdef, type: 2}
+  - {fileID: 11400000, guid: e6d5fe8cc97f0ec46bdbcbc68ed5a771, type: 2}
+  - {fileID: 11400000, guid: e64406143599c054a94854f72791ed0c, type: 2}
+  - {fileID: 11400000, guid: 43cabbbfd9add72428bf0a7389eb2da7, type: 2}
+  - {fileID: 11400000, guid: 115b282a77261d847b6e8ea029b8e16c, type: 2}
+  - {fileID: 11400000, guid: 9f4ded0b3bb562f4b8c1797df2aba874, type: 2}
